@@ -1,0 +1,46 @@
+{
+  "name": "notes",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.14",
+    "@chakra-ui/react": "^2.4.4",
+    "@chakra-ui/theme-tools": "^2.0.13",
+    "@ckeditor/ckeditor5-build-classic": "^35.4.0",
+    "@ckeditor/ckeditor5-react": "^5.0.6",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@prisma/client": "^4.8.0",
+    "@tinymce/tinymce-react": "^4.2.0",
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.9",
+    "bcrypt": "^5.1.0",
+    "cookies-next": "^2.1.1",
+    "copy-webpack-plugin": "^11.0.0",
+    "dotenv": "^16.0.3",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.4",
+    "framer-motion": "^7.10.2",
+    "moment": "^2.29.4",
+    "next": "13.0.4",
+    "next-auth": "^4.18.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tinymce": "^6.3.1",
+    "typescript": "4.9.3",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/ckeditor__ckeditor5-build-classic": "^29.0.1",
+    "@types/uuid": "^9.0.0",
+    "prisma": "^4.8.0"
+  }
+}
